@@ -47,7 +47,7 @@ Sou um desenvolvedor com foco em criar interfaces modernas e funcionais, além d
 
 <p align="left">
   <img height="150" src="https://streak-stats.demolab.com?user=leoxdx&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxdx&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxdx&layout=compact&theme=tokyonight" />
 </p>
 
 ---
