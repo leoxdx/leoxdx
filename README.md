@@ -12,7 +12,7 @@ Sou um desenvolvedor com foco em criar interfaces modernas e funcionais, além d
 <p align="left">
   <a href="https://github.com/leoxdx"><img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/lms-souza/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/></a>&nbsp;
-  <a href="https://instagram.com/lms.souza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/></a>&nbsp;
+  <a href="https://instagram.com/lms.souza"><img src="https://cdn.simpleicons.org/instagram/white/E4405F?viewbox=auto&size=40" height="40" style="border-radius: 10px;" title="Instagram"/></a>&nbsp;
   <a href="mailto:leonardomtzsouza@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email"/></a>
 </p>
 
