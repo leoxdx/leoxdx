@@ -73,9 +73,8 @@ Atualmente estou fortalecendo minha base Full Stack com **React, TypeScript, Nod
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
   </a>
-  &nbsp;
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="n8n"/>
 </p>
 
@@ -147,5 +146,3 @@ Busco construir soluções completas, bem organizadas e úteis para o usuário f
 </p>
 
 ---
-
-> "Evoluindo todos os dias, transformando ideias em soluções com código."
