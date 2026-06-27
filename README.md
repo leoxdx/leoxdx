@@ -57,7 +57,7 @@ Atualmente estou fortalecendo minha base Full Stack com **React, TypeScript, Nod
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,java" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
   </a>
 </p>
 
