@@ -1,12 +1,12 @@
 # Olá, eu sou Leonardo Souza 👋
 
-💻 **Desenvolvedor Front-end | React, TypeScript, JavaScript e TailwindCSS**  
-🚀 Evoluindo para **Full Stack** com Node.js, APIs REST, banco de dados e Java  
+💻 **Desenvolvedor Full Stack | React, TypeScript, Node.js, Express e PostgreSQL**  
+🚀 Construindo aplicações completas, do front-end ao back-end  
 🇧🇷 Brasil
 
-Sou desenvolvedor web com foco em criar interfaces modernas, responsivas e funcionais. Tenho experiência profissional com desenvolvimento front-end, construção de telas, formulários, dashboards, consumo de APIs e melhoria de experiência do usuário.
+Sou desenvolvedor full stack com foco em construir aplicações web completas, do front-end ao back-end. Tenho experiência com criação de interfaces modernas, responsivas e funcionais — telas, formulários, dashboards e consumo de APIs — além de desenvolvimento de back-end com Node.js, Express, APIs REST e banco de dados.
 
-Atualmente estou fortalecendo minha base Full Stack com **React, TypeScript, Node.js, Express, APIs REST, banco de dados e Java**, além de estudar automações e aplicações práticas de IA no desenvolvimento de produtos digitais.
+Atualmente trabalho com **React, TypeScript, Node.js, Express, Prisma e PostgreSQL**, construindo soluções de ponta a ponta, e estudo automações e aplicações práticas de IA no desenvolvimento de produtos digitais.
 
 ---
 
@@ -34,12 +34,12 @@ Atualmente estou fortalecendo minha base Full Stack com **React, TypeScript, Nod
 
 ## 🧠 Sobre mim
 
-- 🎯 Desenvolvedor Front-end com experiência em interfaces web, responsividade e usabilidade
-- ⚛️ Estudando e criando projetos com React, TypeScript e TailwindCSS
-- 🔗 Experiência com consumo de APIs REST, formulários dinâmicos e validações
-- 🧩 Evoluindo no back-end com Node.js, Express, PHP, Java e banco de dados
+- 🎯 Desenvolvedor Full Stack com experiência em aplicações web completas, do front ao back
+- ⚛️ Crio interfaces modernas e responsivas com React, TypeScript e TailwindCSS
+- 🔗 Desenvolvo APIs REST, com rotas, controllers, regras de negócio e validações
+- 🧩 Trabalho com back-end em Node.js, Express, Prisma e banco de dados
 - 🤖 Interesse em automações, IA aplicada ao desenvolvimento e soluções que economizam tempo
-- 📚 Finalizando formação Full Stack na Rocketseat e iniciando pós-graduação em Java Full Stack com React
+- 📚 Formação Full Stack pela Rocketseat
 
 ---
 
@@ -84,7 +84,7 @@ Atualmente estou fortalecendo minha base Full Stack com **React, TypeScript, Nod
 
 ### 💰 Sistema Financeiro
 
-Aplicação para controle de receitas e despesas, com foco em organização financeira, dashboard, listagem de transações, filtros e estrutura Full Stack.
+Aplicação Full Stack para controle de receitas e despesas, com foco em organização financeira, dashboard, listagem de transações e filtros.
 
 **Tecnologias:** React, TypeScript, TailwindCSS, Node.js, Express, Prisma e PostgreSQL.
 
@@ -112,14 +112,13 @@ Projeto web institucional para clínica odontológica, com foco em identidade vi
 - 🟦 TypeScript aplicado em projetos reais
 - 🟩 Node.js, Express e APIs REST
 - 🗄️ Banco de dados com MySQL, PostgreSQL e Prisma
-- ☕ Java Full Stack com React
 - 🤖 IA aplicada ao desenvolvimento e automações
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Meu objetivo é evoluir de Desenvolvedor Front-end para Desenvolvedor Full Stack, unindo uma base sólida de interfaces web com back-end, banco de dados, APIs e automações.
+Meu objetivo é atuar como Desenvolvedor Full Stack, unindo uma base sólida de interfaces web com back-end, banco de dados, APIs e automações.
 
 Busco construir soluções completas, bem organizadas e úteis para o usuário final, sempre evoluindo em boas práticas, arquitetura e qualidade de código.
 
